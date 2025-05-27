@@ -9,6 +9,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 - Github: [Github](https://github.com/ShurGith/social)
 - Live Site: [Live Site](https://socialfrontmentor.netlify.app/)
+- Solution: [Solution](https://www.frontendmentor.io/solutions/profile-card-front-mentor-ZqmJGZ4vbx)
 
 ### Built with
 
